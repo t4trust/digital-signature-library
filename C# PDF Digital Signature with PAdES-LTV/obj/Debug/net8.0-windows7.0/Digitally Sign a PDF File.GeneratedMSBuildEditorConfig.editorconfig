@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Digitally_Sign_a_PDF_File
+build_property.ProjectDir = C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

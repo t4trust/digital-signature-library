@@ -1,0 +1,5 @@
+Demo Version Limitations
+-------------------------
+- On the demo version of the library, the PDF signed files will have a watermark with a demo message.
+- On the demo version of the library, for every cryptographic operation a 10 seconds of delay is added.
+- On the demo version of the library, the digital certificates are valid for 30 days only.

@@ -1,0 +1,18 @@
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\bin\Debug\net6.0-windows\Digitally Sign a PDF File.exe
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\bin\Debug\net6.0-windows\Digitally Sign a PDF File.deps.json
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\bin\Debug\net6.0-windows\Digitally Sign a PDF File.runtimeconfig.json
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\bin\Debug\net6.0-windows\Digitally Sign a PDF File.dll
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\bin\Debug\net6.0-windows\Digitally Sign a PDF File.pdb
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\bin\Debug\net6.0-windows\SignLib.dll
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\bin\Debug\net6.0-windows\iTextSharp-4.1.6.dll
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\bin\Debug\net6.0-windows\SignLib.xml
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\obj\Debug\net6.0-windows\Digitally Sign a PDF File.csproj.AssemblyReference.cache
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\obj\Debug\net6.0-windows\Digitally Sign a PDF File.GeneratedMSBuildEditorConfig.editorconfig
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\obj\Debug\net6.0-windows\Digitally Sign a PDF File.csproj.CoreCompileInputs.cache
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\obj\Debug\net6.0-windows\Digitally Sign a PDF File.csproj.CopyComplete
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\obj\Debug\net6.0-windows\Digitally Sign a PDF File.dll
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\obj\Debug\net6.0-windows\refint\Digitally Sign a PDF File.dll
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\obj\Debug\net6.0-windows\Digitally Sign a PDF File.pdb
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\obj\Debug\net6.0-windows\Digitally Sign a PDF File.genruntimeconfig.cache
+C:\t4\SignFiles\SignatureLibrary\SignLib\NET Core 31 and NET 6 Projects\C# PDF Digital Signature with PAdES-LTV\obj\Debug\net6.0-windows\ref\Digitally Sign a PDF File.dll

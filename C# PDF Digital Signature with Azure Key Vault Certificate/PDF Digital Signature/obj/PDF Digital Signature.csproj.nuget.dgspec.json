@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\t4\\SignFiles\\SignatureLibrary\\SignLib\\NET Core 31 and NET 6 Projects\\C# PDF Digital Signature with Azure Key Vault Certificate\\PDF Digital Signature\\PDF Digital Signature.csproj": {}
+  },
+  "projects": {
+    "C:\\t4\\SignFiles\\SignatureLibrary\\SignLib\\NET Core 31 and NET 6 Projects\\C# PDF Digital Signature with Azure Key Vault Certificate\\PDF Digital Signature\\PDF Digital Signature.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\t4\\SignFiles\\SignatureLibrary\\SignLib\\NET Core 31 and NET 6 Projects\\C# PDF Digital Signature with Azure Key Vault Certificate\\PDF Digital Signature\\PDF Digital Signature.csproj",
+        "projectName": "PDF Digital Signature",
+        "projectPath": "C:\\t4\\SignFiles\\SignatureLibrary\\SignLib\\NET Core 31 and NET 6 Projects\\C# PDF Digital Signature with Azure Key Vault Certificate\\PDF Digital Signature\\PDF Digital Signature.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\t4\\SignFiles\\SignatureLibrary\\SignLib\\NET Core 31 and NET 6 Projects\\C# PDF Digital Signature with Azure Key Vault Certificate\\PDF Digital Signature\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Azure.Security.KeyVault.Certificates": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Azure.Security.KeyVault.Secrets": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
