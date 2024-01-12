@@ -11,8 +11,7 @@ The main function of X509CertificateGenerator class is to issue X.509 Version 3 
 
 Links
 
-.NET Digital Signature Library main page: .NET Digital Signature Library - T4TRUST
-PDF Digital Signature Features:
+**PDF Digital Signature Features:**
 – Support for certificates issued on smart cards, USB tokens or HSM devices
 – Support for eIDAS QSCD hardware devices
 – Support for eIDAS digital certificates (EU Regulation 910/2014)
@@ -27,7 +26,8 @@ PDF Digital Signature Features:
 – SHA-256, SHA-384 and SHA-512 support
 – Embedding Revocation Information for the signing certificate (PAdES-LTV Long Term Validation)
 
-CAdES Features:
+
+**CAdES Features:**
 – Support for certificates issued on smart cards, USB tokens or HSM devices
 – Support for eIDAS QSCD hardware devices
 – Support for eIDAS digital certificates (EU Regulation 910/2014)
@@ -41,9 +41,22 @@ CAdES Features:
 – CAdES-BES, CAdES-C, CAdES-T, CAdES-XL support
 – Digitally sign and verify large CAdES signed files (100 MB or more)
 
-VERIFY
+**VERIFY**
+Digital Certificates Features: 
 – Easy to create self-signed, Root and User certificates in PFX format
 – SHA-256, SHA-512, RSA 2048, RSA 4096 support
 – Certificate validation against local time, CRL and OCSP
 – Easy to configure Key Usage and Enhanced Key Usage
+
+**PKI Interoperability:**
+.NET Digital Signature Library can access and use X.509 certificates and associated private keys, stored on smart cards, USB tokens, PFX files or Azure Key Vault certificates (eIDAS qualified digital certificates are supported).
+.NET Digital Signature Library can be used on Windows desktop systems. For development you can use Visual Studio 2022 or later
+**Programming Languages:**
+C#, VB.NET, ASP.NET, Visual C++, Windows PowerShell. The library is compiled for .NET Framework 3.5 up to .NET Framework 4.8. The .NET Standard 2.0 and the .NET 6 version of the library is also available. The library can be used in .NET Core 3.1, .NET 5, .NET 6 , .NET 7 , .NET 8 projects.
+
+**Licensing**:
+.NET Digital Signature Library can be used by companies, freelancers or software vendors, who develop their software for third-parties (companies or individuals) or for internal company use.
+The license is a lifetime license. There is no additional cost like monthly / annual fees or fees per use. When a new version is released you can continue using your purchased version as usual.
+ 
+If you need help with our software, please contact us to receive prompt assistance from our technical support team. We offer free before-and-after purchase technical support for our programs. Technical support is provided by email only. Email response time is usually less than 24 hours.
 
