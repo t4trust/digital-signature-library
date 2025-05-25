@@ -1,4 +1,5 @@
- 
+T4TRUST
+
 The main function of **.NET Digital Signature Library** is to digitally sign files in PDF, CAdES or PKCS#7 cryptographic standard (.P7S or .P7M files) using X.509 certificates stored on PFX files, smart cards, USB tokens, HSM’s stored on Microsoft Certificate Store.
 
 The positioning of the PDF signature appearance is configurable, plus on which pages of the document it should appear (first page, last page or all pages).
